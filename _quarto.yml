@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site  # Place output-dir under project, not website
 
 website:
   title: "Grey Shield Research LLC"
@@ -23,4 +24,3 @@ format:
     toc: true
 
 editor: visual
-
