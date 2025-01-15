@@ -1,13 +1,23 @@
 ---
-title: "Grey Shield Research"
+title: "Grey Shield Research LLC"
 ---
 
-Welcome to Grey Shield Research LLC.
+*Corrections Data, Made Useful* is not just our slogan, we want to empower correctional organizations with actionable insights for more informed decisions using the best data and analytics available.
 
-This company was started with one goal in mind, to make correctional data understandable, and more importantly, useful. Whether you are the manager of prison, jail, lockup, pre-trial services agency, or even police department, we offer premium and budget data analysis services!
+We offer:
 
-Discounts offered for unique projects!
+-   Advanced data analytics tailored to corrections.
 
-![Brian the Brian](images/DALL·E%202025-01-10%2019.29.04%20-%20A%20very%20simple%20anime-style%20mascot%20of%20Brian%20the%20Brain,%20a%20friendly%20brain%20character%20wearing%20a%20correctional%20officer%20uniform.%20The%20character%20has%20a%20cute,%20mini-01.webp){fig-align="center" width="267"}
+-   Data services tailored to meet PREA and Jail Reimbursement Act requirements.
+
+-   Budget-friendly options for smaller agencies.
+
+Together, we can make corrections safer and more effective for officers, inmates, and communities.
+
+Whether you manage a prison, jail, lockup, pre-trial services agency, or police department, we offer a variety of services that can fit your needs. Whether you are looking for complex, long term data analyses, or simple descriptive statistics to fit your PREA/Jail Reimbursement Act obligations, we can work within most budgets.
+
+Be sure to take a look at our publications section, and if you have any questions about how we can help your organization, please feel free to contact us.
+
+![Our Mascot, Brian the Brain](images/No%20background.png){fig-align="center" width="203"}
 
 Our mascot, Brian the Brain, is named after my father, who passed away in 2024.

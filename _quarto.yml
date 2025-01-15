@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: "."
+  output-dir: _site  
 
 website:
   title: "Grey Shield Research LLC"
@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Eisvogel
     css: styles.css
     toc: true
 
