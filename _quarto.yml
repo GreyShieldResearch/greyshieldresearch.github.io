@@ -19,7 +19,7 @@ website:
 
 format:
   html:
-    theme: Eisvogel
+    theme: cosmos
     css: styles.css
     toc: true
 

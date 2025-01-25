@@ -8,7 +8,7 @@ We have a number of publications that prove the quality of our work. We offer a 
 
 Please find selected samples of my work below. More samples will be coming soon as peer reviewed, and non-academic projects come to a close.
 
--   [Sample of a Monthly Report for the Bernalillo County Metropolitan Detention Center](Monthly Sample.pdf)
+-   [Sample of a Monthly Report for the Bernalillo County Metropolitan Detention Center](Monthly_Sample.pdf)
 
 -   [Analysis of a Jail's Population](Jail_Pop_23.pdf)
 
@@ -16,4 +16,4 @@ Please find selected samples of my work below. More samples will be coming soon 
 
 -   [Pre-Trial Detention Tool - Judicial Designee Assessment](JDA.pdf) (Similar to the AV PSA tool, but for misdemeanor offenses)
 
--   [Officers, Visitors, Tobacco, and Raw Chicken, an Exploratory Analysis of Categorical Differences in Contraband Smuggling in Georgia Prisons](Contraband Project.pdf) (Currently Under Academic Review)
+-   [Officers, Visitors, Tobacco, and Raw Chicken, an Exploratory Analysis of Categorical Differences in Contraband Smuggling in Georgia Prisons](Contraband_Project.pdf) (Currently Under Academic Review)
