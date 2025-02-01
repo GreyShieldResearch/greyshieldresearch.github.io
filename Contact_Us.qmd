@@ -2,7 +2,9 @@
 title: "Contact Us"
 ---
 
-For a free consultation, please email us at Contact\@GreyShieldResearch.com
+For a free consultation, please email us at:
+
+**Contact\@GreyShieldResearch.com**
 
 ```         
 ```
