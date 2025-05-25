@@ -39,7 +39,7 @@
     "href": "FAQ.html",
     "title": "Frequently Asked Questions",
     "section": "",
-    "text": "What Kind of Services does Grey Shield Research Offer\nWe are a data and analytics company that offers data cleaning and solutions, statistical analyses, program evaluations, and any other kinds of reporting and analysis. We specialize in these services within the correctional space. Whether you need a simple project like a descriptive statistics for your jail, complicated experiment or quasi-experiment, or a program evaluation, we want to help you!\nWe Have a New Pilot Program for Inmates/Officers/Judges, etc. Can You Help Us Analyze it?\nAbsolutely! We are data nerds who are always excited to work on new and novel programs! Whether you are in the beginning stages and would like help designing the program in a way that will make it easy to evaluate, or your program has concluded and you need your data cleaned and analyzed, we are here for you!\nWe Are Replicating or Repeating a Program, and We Want To Determine the Impact/Scalability of this Program, Can You Help?\nAbsolutely! Finding out why a program works, and if it can be scaled/replicated is one of the corner stones of criminal justice. Whether it is a step down program for high risk gang members, or helping judges determine who is a low risk for pre-trial release, we can help!\nCan You Testify in Court or a City/County Meeting?\nIn person or virtually! We are happy to come to you (although this may cost a little more) or testify virtually. Whether we are speaking to a small group Correctional Officers or a large state or federal legislative body, we are happy to come discuss our research, findings, implications, and methods!\nWe are a Rural Law Enforcement Agency, Can You Help?\nAbsolutely! We love small agencies! In fact, we are proudly located in a small town (Belen, NM; Population: 7,474), which is located in a small county (Valencia County; Population: 79.149). We take great pride in our small town roots and love helping small towns and counties! We understand the unique data challenges that smaller agencies may face, whether it is the state capital making data requirements tricky, or a program having fewer participants, thus making data harder to track. We want to be the solution to your data needs! We can offer budget friendly solutions that have worked in other rural areas, or help you collect data for your own pilot programs! We have the expertise in statistical analysis, criminology/criminal justice theory, and data science to help your agency reach your goals!\nWe are a Law Enforcement Agency located Outside of America, Can You Help?\nUnfortunately, we may not be able to assist all agencies in all countries. We want to be upfront in our expertise. Our staff is all located and educated in the United States of America. We hold advanced degrees and may be able to assist in some of the data collection and analysis, however, we are only familiar with laws in America regarding corrections, so we may not be able to provide evidence based solutions beyond an analysis when assisting international clients."
+    "text": "We are a data and analytics company that offers data cleaning and solutions, statistical analyses, program evaluations, and any other kinds of reporting and analysis. We specialize in these services within the correctional space. Whether you need a simple project like a descriptive statistics for your jail, complicated experiment or quasi-experiment, or a program evaluation, we want to help you!"
   },
   {
     "objectID": "publications.html",
@@ -47,5 +47,61 @@
     "title": "Publications",
     "section": "",
     "text": "We have a number of publications that prove the quality of our work. We offer a variety of analyses, ranging from simple descriptive statistics, to more complex projects and statistical models.\nPublications\nPlease find selected samples of my work below. More samples will be coming soon as peer reviewed, and non-academic projects come to a close.\n\nSample of a Monthly Report for the Bernalillo County Metropolitan Detention Center\nAnalysis of a Jail’s Population\nProject on Probation Violations\nPre-Trial Detention Tool - Judicial Designee Assessment (Similar to the AV PSA tool, but for misdemeanor offenses)\nOfficers, Visitors, Tobacco, and Raw Chicken, an Exploratory Analysis of Categorical Differences in Contraband Smuggling in Georgia Prisons (Currently Under Academic Review)"
+  },
+  {
+    "objectID": "FAQ.html#what-kind-of-services-does-grey-shield-research-offer",
+    "href": "FAQ.html#what-kind-of-services-does-grey-shield-research-offer",
+    "title": "Frequently Asked Questions",
+    "section": "",
+    "text": "We are a data and analytics company that offers data cleaning and solutions, statistical analyses, program evaluations, and any other kinds of reporting and analysis. We specialize in these services within the correctional space. Whether you need a simple project like a descriptive statistics for your jail, complicated experiment or quasi-experiment, or a program evaluation, we want to help you!"
+  },
+  {
+    "objectID": "FAQ.html#we-have-a-new-pilot-program-for-inmatesofficersjudges-etc.-can-you-help-us-analyze-it",
+    "href": "FAQ.html#we-have-a-new-pilot-program-for-inmatesofficersjudges-etc.-can-you-help-us-analyze-it",
+    "title": "Frequently Asked Questions",
+    "section": "We Have a New Pilot Program for Inmates/Officers/Judges, etc. Can You Help Us Analyze it?",
+    "text": "We Have a New Pilot Program for Inmates/Officers/Judges, etc. Can You Help Us Analyze it?\nAbsolutely! We are data nerds who are always excited to work on new and novel programs! Whether you are in the beginning stages and would like help designing the program in a way that will make it easy to evaluate, or your program has concluded and you need your data cleaned and analyzed, we are here for you!"
+  },
+  {
+    "objectID": "FAQ.html#we-are-replicating-or-repeating-a-program-and-we-want-to-determine-the-impactscalability-of-this-program-can-you-help",
+    "href": "FAQ.html#we-are-replicating-or-repeating-a-program-and-we-want-to-determine-the-impactscalability-of-this-program-can-you-help",
+    "title": "Frequently Asked Questions",
+    "section": "We Are Replicating or Repeating a Program, and We Want To Determine the Impact/Scalability of this Program, Can You Help?",
+    "text": "We Are Replicating or Repeating a Program, and We Want To Determine the Impact/Scalability of this Program, Can You Help?\nAbsolutely! Finding out why a program works, and if it can be scaled/replicated is one of the corner stones of criminal justice. Whether it is a step down program for high risk gang members, or helping judges determine who is a low risk for pre-trial release, we can help!"
+  },
+  {
+    "objectID": "FAQ.html#can-you-testify-in-court-or-a-citycounty-meeting",
+    "href": "FAQ.html#can-you-testify-in-court-or-a-citycounty-meeting",
+    "title": "Frequently Asked Questions",
+    "section": "Can You Testify in Court or a City/County Meeting?",
+    "text": "Can You Testify in Court or a City/County Meeting?\nIn person or virtually! We are happy to come to you (although this may cost a little more) or testify virtually. Whether we are speaking to a small group Correctional Officers or a large state or federal legislative body, we are happy to come discuss our research, findings, implications, and methods!"
+  },
+  {
+    "objectID": "FAQ.html#we-are-a-rural-law-enforcement-agency-can-you-help",
+    "href": "FAQ.html#we-are-a-rural-law-enforcement-agency-can-you-help",
+    "title": "Frequently Asked Questions",
+    "section": "We are a Rural Law Enforcement Agency, Can You Help?",
+    "text": "We are a Rural Law Enforcement Agency, Can You Help?\nAbsolutely! We love small agencies! In fact, we are proudly located in a small town (Belen, NM; Population: 7,474), which is located in a small county (Valencia County; Population: 79.149). We take great pride in our small town roots and love helping small towns and counties!\nWe understand the unique data challenges that smaller agencies may face, whether it is the state capital making data requirements tricky, or a program having fewer participants, thus making data harder to track. We want to be the solution to your data needs! We can offer budget friendly solutions that have worked in other rural areas, or help you collect data for your own pilot programs! We have the expertise in statistical analysis, criminology/criminal justice theory, and data science to help your agency reach your goals!"
+  },
+  {
+    "objectID": "FAQ.html#we-are-a-law-enforcement-agency-however-we-are-not-involved-in-corrections-or-courts-can-you-still-help-us",
+    "href": "FAQ.html#we-are-a-law-enforcement-agency-however-we-are-not-involved-in-corrections-or-courts-can-you-still-help-us",
+    "title": "Frequently Asked Questions",
+    "section": "We are a Law Enforcement Agency, However, We Are Not Involved in Corrections or Courts, Can You Still Help Us?",
+    "text": "We are a Law Enforcement Agency, However, We Are Not Involved in Corrections or Courts, Can You Still Help Us?\nUnfortunately, we are only able to provide assistance in the area of Corrections and Courts. The needs of correctional facilities and pre-trial agencies are fairly unique, as an example, prison gangs pose a different type of security risk than street gangs. Actions that would work in a prison to combat gang violence would differ from actions that a police department may be able to employ to combat gang violence. Due to these large differences between sub-fields, we simply may not be able to assist all agencies, however, we are always happy to give a free consultation to determine if we can assist you in any way!\nIf we cannot assist your agency, we may be able to refer you to another company that specializes in your specific area of interest. We want to guarantee the best outcome for your agency and unfortunately we may not be the best fit for all agencies."
+  },
+  {
+    "objectID": "FAQ.html#we-are-a-law-enforcement-agency-located-outside-of-america-can-you-help",
+    "href": "FAQ.html#we-are-a-law-enforcement-agency-located-outside-of-america-can-you-help",
+    "title": "Frequently Asked Questions",
+    "section": "We are a Law Enforcement Agency located Outside of America, Can You Help?",
+    "text": "We are a Law Enforcement Agency located Outside of America, Can You Help?\nUnfortunately, we may not be able to assist all agencies in all countries. We want to be upfront in our expertise. Our staff is all located and educated in the United States of America. We hold advanced degrees and may be able to assist in some of the data collection and analysis, however, we are only familiar with laws in America regarding corrections, so we may not be able to provide evidence based solutions beyond an analysis when assisting international clients."
+  },
+  {
+    "objectID": "FAQ.html#will-you-use-my-data-for-anything-outside-of-the-scope-of-work",
+    "href": "FAQ.html#will-you-use-my-data-for-anything-outside-of-the-scope-of-work",
+    "title": "Frequently Asked Questions",
+    "section": "Will You Use My Data For Anything Outside of the Scope of Work?",
+    "text": "Will You Use My Data For Anything Outside of the Scope of Work?\nYour data is your property and we would never breach confidentiality. We will not use your data for anything outside of the scope of work of the contract unless explicit, written permission was granted by the owners of the data. Your data will be secured in a password protected external data storage device (such as an external hard drive) unless you wish to have the data stored another way.\nWhile we offer some discount for projects that are willing to allow us to use their data (as some clients have us use public data), the default option is always privacy and any exceptions to this must be in writing. We are willing to sign Non-Disclosure Agreements and provide other privacy guarantees."
   }
 ]
