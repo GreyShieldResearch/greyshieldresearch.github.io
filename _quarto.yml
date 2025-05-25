@@ -14,6 +14,8 @@ website:
         text: Publications
       - href: services.qmd
         text: Services
+      - href: FAQ.qmd
+        text: FAQ        
       - href: Contact_Us.qmd
         text: Contact Us
 

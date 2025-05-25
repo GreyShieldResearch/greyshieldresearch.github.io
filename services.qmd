@@ -5,7 +5,7 @@ format: html
 
 ## Services  
 
-At Grey Shield Research LLC, we provide comprehensive research and analytics services tailored to your institution's needs, whether you're a small town, a large metropolis, or a statewide institution. Our team is equipped to handle projects of any size and budget, offering reliable, data-driven insights for correctional institutions, courts, pretrial programs, and beyond.  
+At Grey Shield Research LLC, we provide comprehensive research and analytics services tailored to your institution's needs, whether you're a small town, a large metropolis, or a statewide institution. Our team is equipped to handle projects of any size and budget, offering reliable, data-driven insights for correctional institutions, courts, pretrial programs, and beyond.
 
 ### Our Services Include  
 
@@ -37,3 +37,5 @@ At Grey Shield Research LLC, we provide comprehensive research and analytics ser
 - Commitment to Transparency – We stand behind our work and are prepared to explain our findings in court, before legislative bodies, or in public forums such as town hall meetings.  
 
 Let us help you make informed decisions and drive positive outcomes—contact us today to discuss your needs! 
+ 
+ 
