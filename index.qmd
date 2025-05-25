@@ -21,4 +21,4 @@ Whether you manage a prison, jail, lockup, pre-trial services agency, or police 
 Be sure to take a look at our publications section, and if you have any questions about how we can help your organization, please feel free to contact us.
 
 
-\*Applicable in New Mexico.
+<span class="footnote-text">*Applicable in New Mexico.</span>
