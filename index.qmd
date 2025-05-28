@@ -6,6 +6,7 @@ title: "Grey Shield Research LLC"
 
 We offer:
 
+- Long and short term projects, ranging from simple descriptive statistics to long term program analysis. 
 - Basic and advanced data analytics specifically tailored to corrections.
 - Data services designed to meet PREA, the Jail Reimbursement Act\*, or other correctional reporting requirements.
 - Budget-friendly options for smaller agencies.
