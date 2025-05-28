@@ -2,9 +2,7 @@
 title: "Contact Us"
 ---
 
-For a free consultation, please email us at:
+For inquiries, project proposals, or to schedule a free consultation, please reach out to us at:
 
-**Contact\@GreyShieldResearch.com**
+**Contact@GreyShieldResearch.com**
 
-```         
-```

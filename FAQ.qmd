@@ -1,41 +1,56 @@
 ---
 title: "Frequently Asked Questions"
+format: html
 ---
 
-**What Kind of Services does Grey Shield Research Offer**
+**What Kind of Services Does Grey Shield Research Offer?**
 
-We are a data and analytics company that offers data cleaning and solutions, statistical analyses, program evaluations, and any other kinds of reporting and analysis. We specialize in these services within the correctional space. Whether you need a simple project like a descriptive statistics for your jail, complicated experiment or quasi-experiment, or a program evaluation, we want to help you! 
+We are a data and analytics company specializing in corrections. We offer data cleaning and solutions, statistical analyses, program evaluations, and a wide range of reporting and analysis services. Whether you need a simple project like descriptive statistics for your jail, a complex experiment or quasi-experiment, or a full program evaluation, we want to help you!
 
-**We Have a New Pilot Program for Inmates/Officers/Judges, etc. Can You Help Us Analyze it?**
+---
 
-Absolutely! We are data nerds who are always excited to work on new and novel programs! Whether you are in the beginning stages and would like help designing the program in a way that will make it easy to evaluate, or your program has concluded and you need your data cleaned and analyzed, we are here for you! 
+**We Have a New Pilot Program for Inmates, Officers, Judges, etc. Can You Help Us Analyze It?**
 
-**We Are Replicating or Repeating a Program, and We Want To Determine the Impact/Scalability of this Program, Can You Help?**
+Absolutely! We are data nerds who get excited about working on new and novel programs. Whether you are in the early design stages and want help structuring the program for easy evaluation, or your program has concluded and you need your data cleaned and analyzed, we are here for you!
 
-Absolutely! Finding out why a program works, and if it can be scaled/replicated is one of the corner stones of criminal justice. Whether it is a step down program for high risk gang members, or helping judges determine who is a low risk for pre-trial release, we can help! 
+---
 
-**Can You Testify in Court or a City/County Meeting?**
+**We Are Replicating or Repeating a Program and Want To Determine Its Impact or Scalability. Can You Help?**
 
-In person or virtually! We are happy to come to you (although this may cost a little more) or testify virtually. Whether we are speaking to a small group Correctional Officers or a large state or federal legislative body, we are happy to come discuss our research, findings, implications, and methods! 
+Definitely! Understanding why a program works and whether it can be scaled or replicated is one of the cornerstones of criminal justice research. Whether it’s a step-down program for high-risk gang members or helping judges assess low-risk candidates for pre-trial release, we can help!
 
-**We are a Rural Law Enforcement Agency, Can You Help?**
+---
 
-Absolutely! We love small agencies! In fact, we are proudly located in a small town (Belen, NM; Population: 7,474), which is located in a small county (Valencia County; Population: 79.149). We take great pride in our small town roots and love helping small towns and counties! 
+**Can You Testify in Court or at a City/County Meeting?**
 
-We understand the unique data challenges that smaller agencies may face, whether it is the state capital making data requirements tricky, or a program having fewer participants, thus making data harder to track. We want to be the solution to your data needs! We can offer budget friendly solutions that have worked in other rural areas, or help you collect data for your own pilot programs! We have the expertise in statistical analysis, criminology/criminal justice theory, and data science to help your agency reach your goals! 
+In person or virtually! We are happy to come to you (though in-person visits may involve additional costs) or provide testimony virtually. Whether we’re speaking to a small group of correctional officers or a large state or federal legislative body, we are ready to discuss our research, findings, implications, and methods.
 
-**We are a Law Enforcement Agency, However, We Are Not Involved in Corrections or Courts, Can You Still Help Us?**
+---
 
-Unfortunately, we are only able to provide assistance in the area of Corrections and Courts. The needs of correctional facilities and pre-trial agencies are fairly unique, as an example, prison gangs pose a different type of security risk than street gangs. Actions that would work in a prison to combat gang violence would differ from actions that a police department may be able to employ to combat gang violence. Due to these large differences between sub-fields, we simply may not be able to assist all agencies, however, we are always happy to give a free consultation to determine if we can assist you in any way! 
+**We Are a Rural Law Enforcement Agency. Can You Help?**
 
-If we cannot assist  your agency, we may be able to refer you to another company that specializes in your specific area of interest. We want to guarantee the best outcome for your agency and unfortunately we may not be the best fit for all agencies. 
+Absolutely! We love working with small agencies. In fact, we are proudly located in a small town — Belen, NM (population 7,474), in Valencia County (population 79,149). We take great pride in our small-town roots and love helping other small towns and counties!
 
-**We are a Law Enforcement Agency located Outside of America, Can You Help?**
+We understand the unique data challenges smaller agencies face — whether it’s state data requirements or small program sizes making tracking difficult. We want to be your solution for data needs! We can offer budget-friendly solutions proven in other rural areas or help you collect data for your own pilot programs. With expertise in statistical analysis, criminology, criminal justice theory, and data science, we can help your agency reach its goals.
 
-Unfortunately, we may not be able to assist all agencies in all countries. We want to be upfront in our expertise. Our staff is all located and educated in the United States of America. We hold advanced degrees and may be able to assist in some of the data collection and analysis, however, we are only familiar with laws in America regarding corrections, so we may not be able to provide evidence based solutions beyond an analysis when assisting international clients. 
+---
 
-**Will You Use My Data For Anything Outside of the Scope of Work?**
+**We Are a Law Enforcement Agency but Not Involved in Corrections or Courts. Can You Still Help Us?**
 
-Your data is your property and we would never breach confidentiality. We will not use your data for anything outside of the scope of work of the contract unless explicit, written permission was granted by the owners of the data. Your data will be secured in a password protected external data storage device (such as an external hard drive) unless you wish to have the data stored another way.
+Unfortunately, we only provide services in the areas of corrections and courts. The needs of correctional facilities and pre-trial agencies are unique — for example, prison gangs pose very different security risks compared to street gangs. Strategies effective inside a prison may not apply to police department operations on the street.  
 
-While we offer some discount for projects that are willing to allow us to use their data (as some clients have us use public data), the default option is always privacy and any exceptions to this must be in writing. We are willing to sign Non-Disclosure Agreements and provide other privacy guarantees. 
+That said, we’re always happy to provide a free consultation to determine if we can assist you. If we cannot help, we may be able to refer you to another company specializing in your specific area of interest. We want to guarantee the best outcome for your agency, even if that means referring you elsewhere.
+
+---
+
+**We Are a Law Enforcement Agency Located Outside of the United States. Can You Help?**
+
+We may not be able to assist all international agencies. Our staff is U.S.-based and educated, and while we hold advanced degrees and can help with certain aspects of data collection and analysis, we are only familiar with U.S. laws regarding corrections. This means we may not be able to provide evidence-based solutions beyond data analysis when assisting international clients. We aim to be transparent about our expertise.
+
+---
+
+**Will You Use My Data for Anything Outside of the Scope of Work?**
+
+Your data is your property, and we will never breach confidentiality. We will not use your data for anything outside the agreed-upon scope of work unless we have explicit, written permission from the data owner. By default, your data will be securely stored on a password-protected external device (such as an external hard drive), unless you request a different storage method.
+
+While we offer discounts for projects that allow us to use their data (for example, when using public data), privacy is always the default. Any exceptions must be formalized in writing. We are happy to sign Non-Disclosure Agreements (NDAs) and provide additional privacy guarantees.
